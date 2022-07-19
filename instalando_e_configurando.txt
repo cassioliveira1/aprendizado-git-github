@@ -1,0 +1,1 @@
+O Git é utilizado na máquina através, principalmente, por comandos no terminal do Linux, onde pode ser feito no Windows através do WSL, ferramenta nativa do Windows para rodar o sistema Linux.
