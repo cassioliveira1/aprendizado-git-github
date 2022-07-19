@@ -1,0 +1,8 @@
+Alguns dos principais comandos do Git:
+
+1. git init -> iniciar um repositório git localmente
+2. git add -> adicionar um arquivo ou diretório
+3. git commit -> commitar um arquivo ou diretório
+4. git clone -> clonar um repositório online para local
+5. git status -> consultar o status dos arquivos a serem adicionados e commitados
+6. git branch -> consultar as branchs disponíveis no repositório 
