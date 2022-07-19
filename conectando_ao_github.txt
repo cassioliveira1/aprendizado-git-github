@@ -1,0 +1,1 @@
+A conexão ao GitHub é realizada através do comando git add origin master e o link do repositório, necessitando das credenciais (login e token) para a autenticação.
