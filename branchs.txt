@@ -1,0 +1,1 @@
+Branchs são as ramificações do projeto, com a utilidade de várias pessoas trabalharem no mesmo repositório simultaneamente.
